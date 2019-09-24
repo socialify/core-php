@@ -1,7 +1,7 @@
 <?php
 namespace Socialify\Core;
 
-class Action {
+class Action extends Core {
 
   //
 

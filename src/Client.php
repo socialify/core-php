@@ -1,6 +1,6 @@
 <?php
 namespace Socialify\Core;
 
-class Api {
+class Client {
   //
 }
